@@ -1,5 +1,4 @@
 # sonseokho
-
 <!-- 헤더 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%"/>
@@ -9,9 +8,10 @@
 
 <!-- 소개 -->
 <div align="center">
-  <h2>🧑‍💻 Frontend Developer</h2>
-  <p>사용자 경험을 중시하는 프론트엔드 개발자입니다.<br/>
-  새로운 기술을 배우고 더 나은 서비스를 만드는 것을 즐깁니다.</p>
+  <h2>🎨 Publisher → 🧑‍💻 Frontend Developer</h2>
+  <p>웹 퍼블리셔로 다져온 HTML/CSS 기반 위에<br/>
+  React, TypeScript 등 현대적인 기술을 더해 프론트엔드 개발자로 전향 중입니다.<br/>
+  UI를 단순히 구현하는 것을 넘어, 더 나은 사용자 경험을 만드는 것을 목표로 합니다.</p>
 </div>
 
 <br/>
@@ -75,26 +75,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-</div>
-
-<br/>
-
----
-
 ## 📫 Contact
 
 <div>
   <a href="mailto:tjrgh538@naver.com">
     <img src="https://img.shields.io/badge/tjrgh538@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
   </a>
-  <a href="tel:01065654215">
-    <img src="https://img.shields.io/badge/010--6565--4215-25D366?style=for-the-badge&logo=Phone&logoColor=white"/>
-  </a>
+
 </div>
 
 <br/>
