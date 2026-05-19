@@ -8,10 +8,10 @@
 
 <!-- 소개 -->
 <div align="center">
-  <h2>🎨 Publisher → 🧑‍💻 Frontend Developer</h2>
-  <p>웹 퍼블리셔로 다져온 HTML/CSS 기반 위에<br/>
-  React, TypeScript 등 현대적인 기술을 더해 프론트엔드 개발자로 전향 중입니다.<br/>
-  UI를 단순히 구현하는 것을 넘어, 더 나은 사용자 경험을 만드는 것을 목표로 합니다.</p>
+  <h2>🎨 Web Publisher & Frontend Developer</h2>
+  <p>시맨틱 마크업과 CSS에 강점을 가진 웹 퍼블리셔로서,<br/>
+  React · TypeScript · Next.js 등을 활용한 프론트엔드 개발까지 역량을 넓혀가고 있습니다.<br/>
+  디자인을 정확하게 구현하고, 사용자 경험을 고민하는 개발자를 지향합니다.</p>
 </div>
 
 <br/>
@@ -38,6 +38,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-433D3D?style=for-the-badge&logo=Zustand&logoColor=white"/>
