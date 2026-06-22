@@ -9,9 +9,7 @@
 <!-- 소개 -->
 <div align="center">
   <h2>🎨 Web Publisher & Frontend Developer</h2>
-  <p>시맨틱 마크업과 CSS에 강점을 가진 웹 퍼블리셔로서,<br/>
-  React · TypeScript · Next.js 등을 활용한 프론트엔드 개발까지 역량을 넓혀가고 있습니다.<br/>
-  디자인을 정확하게 구현하고, 사용자 경험을 고민하는 개발자를 지향합니다.</p>
+  <p>시맨틱 마크업과 CSS부터 React · TypeScript · Next.js까지, 화면을 만드는 일을 폭넓게 해왔습니다. <br>디자인을 정확하게 구현하고, 사용자 경험을 고민하는 개발자를 지향합니다.</p>
 </div>
 
 <br/>
